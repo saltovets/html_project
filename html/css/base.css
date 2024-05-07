@@ -1,0 +1,29 @@
+body {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgVnEHD9StCI11R-3EKei_EiJn_BtEuPrXMQ&s');
+}
+
+.center {
+    text-align: center;
+    color: green;
+}
+
+#p1 {
+    border: 3px solid black;
+}
+
+#p2 {
+    border: 3px dotted red;
+}
+
+.img {
+    padding-right: 10000px;
+}
+
+.con {
+    padding-bottom: 50px;
+}
+
+#font {
+    font-family: cursive;
+}
+
